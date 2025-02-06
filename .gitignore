@@ -1,0 +1,17 @@
+
+/config/__pycache__
+/liqiv3/.venv
+/liqiv3/src/plugins/setu/__pycache__
+/log/__pycache__
+/setu/__pycache__
+/setu/CLIP/__pycache__
+/setu/CLIP/tmp
+/setu/data/image
+/stat/__pycache__
+setu/CLIP/model/CN_CLIP.zip
+setu/CLIP/data/setudb.zip
+/setu/CLIP/data
+/setu/CLIP/model/CN_CLIP
+liqiv3/.gitattributes
+/log/message
+/log/setu
